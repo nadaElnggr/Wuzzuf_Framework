@@ -1,0 +1,11 @@
+<suite name="Selenium POM Demo Suite" verbose="1">
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+        <listener class-name="CoreFramework.listeners.TestListener"/>
+    </listeners>
+    <test name="All Tests">
+        <classes>
+            <class name="CoreTest.LoginTest"/>
+        </classes>
+    </test>
+</suite>

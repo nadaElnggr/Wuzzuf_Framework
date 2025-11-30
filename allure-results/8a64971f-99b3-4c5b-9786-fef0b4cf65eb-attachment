@@ -1,0 +1,8 @@
+2025-11-29 14:26:01.913 WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\pc\Downloads\Wuzzuf_Reporting\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-11-29 14:26:02.957 WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-11-29 14:26:02.957 WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-11-29 14:26:02.957 WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2025-11-29 14:26:03.621 INFO  CoreTest.LoginTest - ===== Test setup started =====
+2025-11-29 14:26:05.890 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-11-29 14:26:05.965 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\pc\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2025-11-29 14:26:09.185 INFO  CoreTest.LoginTest - WebDriver initialized
