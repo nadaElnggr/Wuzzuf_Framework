@@ -90,7 +90,7 @@ Located at: `src/main/java/CoreFramework/config/ConfigManager.java`
 - Typical keys:
 
   ```properties
-  baseUrl=https://testing.wuzzuf.basharsys.com/jobs
+  baseUrl=https://***.basharsys.com/jobs
   browser=chrome
   implicitWait=5
   explicitWait=10
@@ -231,7 +231,7 @@ src/test/resources/config.properties
 Example content:
 
 ```properties
-baseUrl=https://testing.wuzzuf.basharsys.com/jobs
+baseUrl=https://****.com/jobs
 browser=chrome
 implicitWait=5
 explicitWait=10
